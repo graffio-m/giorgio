@@ -9,3 +9,4 @@ repo per test
 
 	messi i parametri giusti e salvato la configurazione e BASTA, modifico
 	
+3) modifica graffio!!!!!!!!!

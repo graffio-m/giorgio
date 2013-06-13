@@ -7,5 +7,5 @@ repo per test
 
 2) FATTO: CLICK DESTRO SUL PROGETTO=>TEAM=>REMOTE=>CONFIGURE PUSH TO UPSTREAM
 
-	messi i parametri giusti e salvato la configurazione e BASTA
+	messi i parametri giusti e salvato la configurazione e BASTA, modifico
 	
